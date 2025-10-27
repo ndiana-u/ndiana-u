@@ -26,7 +26,7 @@ My objective for this portfolio is to **showcase my expertise in penetration tes
 | Folder | Description |
 |--------|-------------|
 | [About Me](https://github.com/ndiana-u/ndiana-u/tree/main/About-Me) | Personal bio, resume, and contact information |
-| [Penetration Testing](#) | Web, network, and mobile testing projects, sample reports, and labs |
+| [Penetration Testing](https://github.com/ndiana-u/ndiana-u/tree/main/Penetration-Testing) | Web, network, and mobile testing projects, sample reports, and labs |
 | [OSINT](https://github.com/ndiana-u/ndiana-u/tree/main/OSINT) | Open Source Intelligence investigations, analysis exercises, and tools |
 | [Capture-The-Flag Write-ups](https://github.com/ndiana-u/ndiana-u/tree/main/CTFs) | Bandit, Natas and other CTF challenges with detailed walkthroughs |
 
