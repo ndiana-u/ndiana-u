@@ -1,6 +1,6 @@
 # Web Penetration Testing
 
-# IDOR Booking Enumeration — Project
+## 📌 Project: IDOR Booking Enumeration — Fast Food Website 
 
 ## Objective
 Demonstrate and verify an Insecure Direct Object Reference (IDOR) in a fast-food site's booking API by showing that base64-encoded, predictable order IDs can be manipulated to retrieve other users’ booking details.
