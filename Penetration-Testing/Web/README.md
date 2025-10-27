@@ -1,4 +1,4 @@
-# Web Pentesting
+# Web Penetration Testing
 
 # IDOR Booking Enumeration — Project
 
