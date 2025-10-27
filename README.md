@@ -3,10 +3,10 @@
   <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/yourhandle">
+  <a href="https://x.com/@Cyber_Ndiana">
     <img src="https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:ndyumoh25@protonmail.com">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
