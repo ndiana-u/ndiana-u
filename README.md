@@ -31,9 +31,9 @@ My objective for this portfolio is to **showcase my expertise in penetration tes
 
 ## 🔧 Technical Skills
 
-- [Mobile Penetration Testing](#)  
-- [Web Application Penetration Testing](#)  
-- [Network Penetration Testing](#)  
+- [Mobile Penetration Testing](https://github.com/ndiana-u/ndiana-u/tree/main/Penetration-Testing/Mobile)  
+- [Web Application Penetration Testing](https://github.com/ndiana-u/ndiana-u/tree/main/Penetration-Testing/Web)  
+- [Network Penetration Testing](https://github.com/ndiana-u/ndiana-u/tree/main/Penetration-Testing/Network)  
 - [Vulnerability Assessment](#)  
 - [OSINT Investigation](#)  
 
