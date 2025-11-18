@@ -26,6 +26,7 @@ My objective for this portfolio is to **showcase my expertise in penetration tes
 | Folder | Description |
 |--------|-------------|
 | [Penetration Testing](https://github.com/ndiana-u/ndiana-u/tree/main/Penetration-Testing) | Web, network, and mobile testing projects, and sample reports|
+| [Vulnerability Assessment](https://github.com/ndiana-u/ndiana-u/tree/main/Vulnerability-Assessment) | Source code scanning |
 | [OSINT](https://github.com/ndiana-u/ndiana-u/tree/main/OSINT) | Open Source Intelligence investigations, analysis exercises, and tools |
 
 
@@ -34,8 +35,8 @@ My objective for this portfolio is to **showcase my expertise in penetration tes
 - [Mobile Penetration Testing](https://github.com/ndiana-u/ndiana-u/tree/main/Penetration-Testing/Mobile)  
 - [Web Application Penetration Testing](https://github.com/ndiana-u/ndiana-u/tree/main/Penetration-Testing/Web)  
 - [Network Penetration Testing](https://github.com/ndiana-u/ndiana-u/tree/main/Penetration-Testing/Network)  
-- [Vulnerability Assessment](#)  
-- [OSINT Investigation](#)  
+- [Vulnerability Assessment](https://github.com/ndiana-u/ndiana-u/tree/main/Vulnerability-Assessment)  
+- [OSINT Investigation](https://github.com/ndiana-u/ndiana-u/tree/main/OSINT)  
 
 
 ## 📝 Non-Technical Skills
